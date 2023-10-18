@@ -1,7 +1,7 @@
 # PRODIGY_DS_02
 
-## Prodigy InfoTech Data Science Internship Task 02<br>
-![zomato_logo](https://github.com/CHIRAGWADKAR/PRODIGY_DS_02/assets/89576084/f2e169b8-80b0-496e-ace2-a2eeb614122d)<br>
+## Prodigy InfoTech Data Science Internship Task 02
+<br>![zomato_logo](https://github.com/CHIRAGWADKAR/PRODIGY_DS_02/assets/89576084/f2e169b8-80b0-496e-ace2-a2eeb614122d)<br>
 
 In this internship, the second task assigned to me was to perform exploratory data analysis on the Zomato Dataset.
 The dataset from Kaggle is attached in this repository.
